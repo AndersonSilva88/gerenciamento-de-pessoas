@@ -1,4 +1,4 @@
-package br.com.gerenciamentopessoas.personapi.dto;
+package br.com.gerenciamentopessoas.personapi.dto.response;
 
 
 import lombok.Builder;
